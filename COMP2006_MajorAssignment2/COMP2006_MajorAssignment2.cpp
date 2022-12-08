@@ -1,3 +1,12 @@
+/*
+* Group 9 - Major Assignment 2
+*
+* Austin McCartney - 1167578
+* Chris Veilleux - 1167804
+* Theoren Weber - 1170114
+* Phi Khanh Hoang - 1174170
+*/
+
 #include "Card.h"
 #include "Deck.h"
 #include <iostream>
